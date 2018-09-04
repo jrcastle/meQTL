@@ -1,7 +1,10 @@
+*.RData
+*.Rhistory
 *.RDATA
 *.txt
 *.csv
 *.png
+*.pdf
 *.out
 *.jpg
 *~
