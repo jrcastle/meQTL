@@ -1,8 +1,8 @@
 library(MatrixEQTL)
 require(GEM)
 setwd('/home/jcastle/VitaminUse_Study/meQTL')
-DATADIR <- "../data/meQTL_normal_samples/"
-RESULTSDIR <- "normal_results/"
+DATADIR <- "../data/meQTL_norm_and_adjnorm_samples_with_geno/bc_only_loci/EUR/"
+RESULTSDIR <- "normal_adjnormal_results/EUR/"
 LOADDATA <- FALSE
 
 
